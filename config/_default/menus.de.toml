@@ -1,0 +1,28 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+weight = 1
+url = ""
+name = "Start"
+  
+[[main]]
+weight = 2
+url = "blog/"
+name = "News"
+  
+[[main]]
+weight = 3
+url = "kontakt/"
+name = "Kontakt"
+
+############################# Footer Menu ########################
+[[footer]]
+weight = 1
+url = "impressum/"
+name = "Impressum"
+
+[[footer]]
+weight = 3
+url = "datenschutz/"
+name = "Datenschutz"

@@ -40,8 +40,8 @@
 - id: showing_posts_from
   translation: Showing posts from
 
-- id: home
-  translation: Home
+- id: start
+  translation: Start
 
 - id: search
   translation: Search
