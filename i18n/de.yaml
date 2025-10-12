@@ -1,53 +1,53 @@
 - id: search_placeholder
-  translation: Click to search..
+  translation: Klicken um zu suchen
 
 - id: our_instagram
-  translation: Our Instagram
+  translation: Instagram
 
 - id: name
-  translation: Your Name
+  translation: Dein Name
 
 - id: email
-  translation: Email Address
+  translation: Email Addresse
 
 - id: subject
-  translation: Subject
+  translation: Betreff
 
 - id: message
-  translation: Your Message Here
+  translation: Deine Nachricht
 
 - id: send_message
-  translation: Send Message
+  translation: Nachricht senden 
 
 - id: search_result_for
-  translation: Search results for
+  translation: Suchergebnisse für
 
 - id: you_may_also_like
-  translation: You May Also Like
+  translation: Das könntes du auch mögen
 
 - id: most_recent_post
-  translation: Our Most Recent Post
+  translation: Die letzten News
 
 - id: written_by
-  translation: Written By
+  translation: Geschrieben von
 
 - id: read_more
-  translation: Read More
+  translation: Mehr
   
 - id: read_article
-  translation: Read Article
+  translation: Artikel lesen
 
 - id: showing_posts_from
-  translation: Showing posts from
+  translation: Zeige News von
 
 - id: start
   translation: Start
 
 - id: search
-  translation: Search
+  translation: Suchen
 
 - id: categories
-  translation: Categories
+  translation: Kategorien
 
 - id: tags
   translation: Tags
@@ -59,10 +59,10 @@
   translation: Designed & Developed By
 
 - id: search_input_placeholder
-  translation: Search Bookworm..
+  translation: Website durchsuchen..
 
 - id: no_results_for
-  translation: No results for
+  translation: Keine Ergebnisse für
 
 - id: empty_search_results_placeholder
-  translation: Type something to search..
+  translation: Tippe etwas um zu durchsuchen..

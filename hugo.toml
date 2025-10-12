@@ -9,17 +9,17 @@
 # customize your color and font from here.
 defaultContentLanguage = "de"
 [params.variables]
-color_primary = "#FF0000"
+color_primary = "#186CB3"
 color_secondary = "#001111"
-body_color = "#fff"
+body_color = "#FFE5AE"
 text_color = "#666666"
 text_dark = "#222222"
 text_light = "#959595"
 border_color = "#dededf"
 black = "#000"
-white = "#fff"
+white = "#D5EDCD"
 dark = "#152035"
-light = "#FAFAFA"
+light = "#FFE5AE"
 gray = "#747577"
 
 # font variables
