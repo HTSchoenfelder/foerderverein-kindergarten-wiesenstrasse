@@ -41,7 +41,7 @@
 <!-- Purge CSS in Production -->
 {{ if hugo.IsProduction }}
   {{ if site.Params.purge_css }}
-    {{ $styles = $styles | resources.PostCSS | minify | fingerprint "sha512" }}
+    {{ $styles = $styles | css.PostCSS | minify | fingerprint "sha512" }}
   {{ else }}
     {{ $styles = $styles | resources.Minify | fingerprint "sha512" }}
   {{ end }}
