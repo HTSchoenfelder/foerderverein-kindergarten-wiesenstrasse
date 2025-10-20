@@ -1,5 +1,5 @@
 ---
 title: "Contact"
-layout: "contact"
 draft: false
 ---
+Ihr könnt uns über info@fv-wiesenstrasse.de erreichen.
