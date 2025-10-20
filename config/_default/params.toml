@@ -9,7 +9,7 @@ logo_width = "208px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Bookworm"
+logo_text = "Förderverein Kindergarten Wiesenstrae"
 # purgeCSS
 purge_css = true
 
@@ -26,8 +26,8 @@ sidebar = "false" # Sidebar value ("left", "right" or false)
 image_gallery = true
 
 # copyright
-theme_copyright = true
-copyright = "Copyright by your company"
+theme_copyright = false
+copyright = "Förderverein Kindergarten Wiesenstraße e.V."
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -64,7 +64,7 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours

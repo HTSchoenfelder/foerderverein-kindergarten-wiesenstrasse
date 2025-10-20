@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Start"
 layout: "about"
 image: "images/about.jpg"
 draft: false
@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "Förderverein Kindergarten Wiesenstraße"
 
 # social
 social:
@@ -43,6 +43,8 @@ what_i_do:
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+Nulla anim proident eiusmod dolore cupidatat ea veniam commodo Lorem tempor minim. Laboris fugiat ad aliquip exercitation amet deserunt proident consectetur minim officia esse veniam excepteur cillum. Consequat laboris minim veniam adipisicing cillum eiusmod reprehenderit. Sint proident ad do in et ipsum nostrud dolor adipisicing eu consectetur cupidatat aliquip. Irure id duis consequat proident incididunt enim cillum id esse adipisicing. Qui dolore fugiat ea nostrud do magna est qui incididunt mollit sunt. Cillum amet deserunt non ut ea esse nulla ullamco exercitation ea eiusmod.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Anim eiusmod et veniam ad deserunt sunt incididunt officia incididunt eu pariatur. Est commodo duis consequat cillum sint fugiat sint commodo deserunt cupidatat reprehenderit. Dolore culpa velit occaecat aliquip veniam exercitation ex deserunt incididunt ullamco eiusmod magna ut excepteur. Ad dolor consequat exercitation magna aute officia esse labore adipisicing. Aliquip nisi commodo mollit velit id proident.
+
+Do veniam incididunt laborum pariatur ea irure culpa non. Duis voluptate laborum ullamco velit amet. Non laboris pariatur ea ipsum velit labore.
