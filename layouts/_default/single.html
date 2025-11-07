@@ -28,7 +28,7 @@
             <h2 class="h3 mb-4 post-title">{{.Title}}</h2>
             <ul class="card-meta list-inline">
               <li class="list-inline-item">
-                <span>{{.PublishDate.Format "02. January 2006"}}</span>
+                <span>{{.PublishDate.Format | time.Format ":date_medium"}}</span>
               </li>
             </ul>
           </div>
