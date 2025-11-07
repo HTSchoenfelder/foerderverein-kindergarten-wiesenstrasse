@@ -43,8 +43,18 @@ what_i_do:
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
-Nulla anim proident eiusmod dolore cupidatat ea veniam commodo Lorem tempor minim. Laboris fugiat ad aliquip exercitation amet deserunt proident consectetur minim officia esse veniam excepteur cillum. Consequat laboris minim veniam adipisicing cillum eiusmod reprehenderit. Sint proident ad do in et ipsum nostrud dolor adipisicing eu consectetur cupidatat aliquip. Irure id duis consequat proident incididunt enim cillum id esse adipisicing. Qui dolore fugiat ea nostrud do magna est qui incididunt mollit sunt. Cillum amet deserunt non ut ea esse nulla ullamco exercitation ea eiusmod.
+## Warum und Wofür
 
-Anim eiusmod et veniam ad deserunt sunt incididunt officia incididunt eu pariatur. Est commodo duis consequat cillum sint fugiat sint commodo deserunt cupidatat reprehenderit. Dolore culpa velit occaecat aliquip veniam exercitation ex deserunt incididunt ullamco eiusmod magna ut excepteur. Ad dolor consequat exercitation magna aute officia esse labore adipisicing. Aliquip nisi commodo mollit velit id proident.
+Wir wünschen uns für unsere Kinder einen Ort zum Wohlfühlen, zum Träumen, zum Entwickeln und zum Spielen. Doch solche Orte müssen wachsen und kosten neben Mut, Willen und Leidenschaft auch Geld. Als eingetragener gemeinnütziger Verein möchten wir genau hier helfen und den Kindergarten – insbesondere durch Bereitstellung finanzieller Mittel – unterstützen.
 
-Do veniam incididunt laborum pariatur ea irure culpa non. Duis voluptate laborum ullamco velit amet. Non laboris pariatur ea ipsum velit labore.
+Es wäre schön, viele weitere Eltern, Tanten, Onkel, Omas, Opas, Freunde und Bekannte für unseren Verein zu gewinnen. Wir sind stark, wenn viele helfen.
+
+## Spenden
+
+Spenden sind auch ohne eine Mitgliedschaft willkommen! Alle Beiträge und Spenden können Sie steuerlich geltend machen. Bei Spenden die die gesetzliche Nachweisgrenze von 300€ überschreiten, stellen wir gerne eine Spendenquittung aus. Wir freuen uns über jedes Engagement und Ihre Hilfe!
+
+**Unser Spendenkonto:**
+Förderverein Kindergarten Wiesenstraße Gemmingen e.V.
+Kreissparkasse Heilbronn
+IBAN: DE06 6205 0000 0000 6276 10
+BIC: HEISDE66XXX
