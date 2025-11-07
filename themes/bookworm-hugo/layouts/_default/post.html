@@ -25,8 +25,8 @@
     </a>
     {{ end }}
   </div>
-  {{end}}
-  {{end}}
+  {{ end }}
+  {{ end }}
 
   <div class="card-body">
     <ul class="card-meta list-inline mb-2">
@@ -54,7 +54,7 @@
         <ul class="card-meta-tag list-inline">
           {{range .Params.tags}}
           <li class="list-inline-item"><a href="{{site.BaseURL}}tags/{{.| urlize}}">{{.}}</a></li>
-          {{end}}
+          {{ end }}
         </ul>
       </li>
     </ul>

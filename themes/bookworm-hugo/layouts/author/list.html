@@ -25,14 +25,14 @@
           <li class="list-inline-item"><a href="{{.link | safeURL}}">
               <i class="lab {{.icon}}"></i>
             </a></li>
-          {{end}}
+          {{ end }}
         </ul>
         <p>{{- .Summary | truncate 100 -}} &nbsp; <a class="text-dark" href="{{.Permalink}}">{{i18n "read_more"}}</a>
         </p>
       </div>
-      {{end}}
+      {{ end }}
     </div>
   </div>
 </section>
 
-{{end}}
+{{ end }}

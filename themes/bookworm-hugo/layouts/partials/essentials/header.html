@@ -14,7 +14,7 @@
           <button class="search-toggle d-inline-block d-lg-none ms-auto pe-3" data-target="search-modal" aria-label="Search Toggle">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg>
           </button>
-          {{end}}
+          {{ end }}
 
           <!-- navbar toggler -->
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navHeader" aria-controls="navHeader" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,15 +61,15 @@
                   {{ range .Children }}
                   {{ $childURL := .URL | absLangURL }}
                   {{ $active := eq $childURL $pageURL }}
-                  <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+                  <a class="dropdown-item {{ if $active }}active{{ end }}" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{ end }}
+                    href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{ end }}{{.URL}}{{else}}{{.URL | relLangURL}}{{ end }}">{{ .Name }}</a>
                   {{ end }}
                 </div>
               </li>
               {{ else }}
               <li class="nav-item {{ if $active }}active{{ end }}">
-                <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
-                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{.Name}}</a>
+                <a class="nav-link" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{ end }}
+                  href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{ end }}{{.URL}}{{else}}{{.URL | relLangURL}}{{ end }}">{{.Name}}</a>
               </li>
               {{ end }}
               {{ end }}
@@ -112,8 +112,8 @@
                 </li>
               </ul>
             </div>
-            {{end}}
-            {{end}}
+            {{ end }}
+            {{ end }}
           </div>
         </nav>
       </div>
