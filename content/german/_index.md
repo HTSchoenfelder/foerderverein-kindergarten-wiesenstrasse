@@ -25,11 +25,11 @@ what_i_do:
     icon: "fas fa-piggy-bank"
     description: "Spenden sind auch ohne eine Mitgliedschaft willkommen! Alle Beiträge und Spenden können Sie steuerlich geltend machen. Bei Spenden die die gesetzliche Nachweisgrenze von 300€ überschreiten, stellen wir gerne eine Spendenquittung aus. Wir freuen uns über jedes Engagement und Ihre Hilfe!
 
-Unser Spendenkonto: </br> 
-Förderverein Kindergarten Wiesenstraße Gemmingen e.V.  </br> 
-Kreissparkasse Heilbronn  </br> 
-IBAN: DE06 6205 0000 0000 6276 10  </br>
-BIC: HEISDE66XXX  </br> 
+Unser Spendenkonto: 
+Förderverein Kindergarten Wiesenstraße Gemmingen e.V.  
+Kreissparkasse Heilbronn  
+IBAN: DE06 6205 0000 0000 6276 10 
+BIC: HEISDE66XXX  
 "
  
 ---
