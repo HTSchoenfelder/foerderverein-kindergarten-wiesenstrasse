@@ -11,7 +11,6 @@ caption:
 
 # what_i_do
 what_i_do:
-  title: "What I Do"
   enable: true
   item:
   - title: "Warum und Wofür"
