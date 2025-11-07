@@ -7,17 +7,17 @@ url = ""
 name = "Start"
 
 [[main]]
-weight = 1
+weight = 2
 url = "https://basar.fv-wiesenstrasse.de"
 name = "Kindersachen-Basar"
   
 [[main]]
-weight = 2
+weight = 3
 url = "blog/"
 name = "News"
   
 [[main]]
-weight = 3
+weight = 4
 url = "kontakt/"
 name = "Kontakt"
 
