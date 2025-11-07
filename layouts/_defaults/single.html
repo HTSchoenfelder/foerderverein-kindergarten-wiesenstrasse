@@ -28,25 +28,6 @@
             <h2 class="h3 mb-4 post-title">{{.Title}}</h2>
             <ul class="card-meta list-inline">
               <li class="list-inline-item">
-                {{ $author:= .Params.Author | urlize | lower}}
-                {{ with site.GetPage $author }}
-                <a href="{{.Permalink}}" class="card-meta-author">
-                  {{ if .Params.image }}
-                  {{ partial "image.html" (dict "Src" .Params.image "Command" "Fill" "Size" "52x52" "Alt" .Title)
-                  }}
-                  {{else if .Params.Email}}
-                  <a href="{{.Permalink}}" class="card-meta-author">
-                    {{ $emailHash := md5 .Params.Email }}
-                    {{ $gravatorUrl := print "https://www.gravatar.com/avatar/" $emailHash "?s=700&pg&d=identicon" }}
-                    {{ partial "image.html" (dict "Src" $gravatorUrl "Alt" .Title) }}
-                  </a>
-                  {{ end }}
-                  <span>{{ .Title }}</span>
-                </a>
-                {{ end }}
-              </li>
-              <li class="list-inline-item">|</li>
-              <li class="list-inline-item">
                 <span>{{.PublishDate.Format "02. January 2006"}}</span>
               </li>
             </ul>
