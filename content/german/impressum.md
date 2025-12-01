@@ -4,5 +4,5 @@ draft: false
 ---
 Förderverein Kindergarten  
 Wiesenstraße Gemmingen e.V.  
-Fasanenweg 8  
+Wiesenstraße 7  
 75050 Gemmingen  
